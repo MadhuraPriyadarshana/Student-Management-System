@@ -1,0 +1,32 @@
+Line 69: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 84: Class MSAdodcLib.Adodc of control studentdb was not a loaded control class.
+Line 72: The property name _ExtentX in CommonDialog1 is invalid.
+Line 73: The property name _ExtentY in CommonDialog1 is invalid.
+Line 74: The property name _Version in CommonDialog1 is invalid.
+Line 90: The property name _ExtentX in studentdb is invalid.
+Line 91: The property name _ExtentY in studentdb is invalid.
+Line 92: The property name ConnectMode in studentdb is invalid.
+Line 93: The property name CursorLocation in studentdb is invalid.
+Line 94: The property name IsolationLevel in studentdb is invalid.
+Line 95: The property name ConnectionTimeout in studentdb is invalid.
+Line 96: The property name CommandTimeout in studentdb is invalid.
+Line 97: The property name CursorType in studentdb is invalid.
+Line 98: The property name LockType in studentdb is invalid.
+Line 99: The property name CommandType in studentdb is invalid.
+Line 100: The property name CursorOptions in studentdb is invalid.
+Line 101: The property name CacheSize in studentdb is invalid.
+Line 102: The property name MaxRecords in studentdb is invalid.
+Line 103: The property name BOFAction in studentdb is invalid.
+Line 104: The property name EOFAction in studentdb is invalid.
+Line 105: The property name ConnectStringType in studentdb is invalid.
+Line 109: The property name Orientation in studentdb is invalid.
+Line 111: The property name Connect in studentdb is invalid.
+Line 112: The property name OLEDBString in studentdb is invalid.
+Line 113: The property name OLEDBFile in studentdb is invalid.
+Line 114: The property name DataSourceName in studentdb is invalid.
+Line 115: The property name OtherAttributes in studentdb is invalid.
+Line 116: The property name UserName in studentdb is invalid.
+Line 117: The property name Password in studentdb is invalid.
+Line 118: The property name RecordSource in studentdb is invalid.
+Line 119: The property name Caption in studentdb is invalid.
+Line 129: The property name _Version in studentdb is invalid.
